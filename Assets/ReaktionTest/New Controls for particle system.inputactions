@@ -1,0 +1,254 @@
+{
+    "name": "New Controls for particle system",
+    "maps": [
+        {
+            "name": "Action1",
+            "id": "48c7c890-2c5d-4c44-9fc3-06395a410c6a",
+            "actions": [
+                {
+                    "name": "onspray1",
+                    "type": "Button",
+                    "id": "2a145649-7f74-4ff4-bee0-d111c2959c94",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "onspray2",
+                    "type": "Button",
+                    "id": "0a28759c-9f51-41d3-88ed-f2812eb212cc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "onspray3",
+                    "type": "Button",
+                    "id": "d946c79b-abc1-49b2-b57b-3e6f897695b7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "onspray4",
+                    "type": "Button",
+                    "id": "a93beb7a-77d6-4a87-9957-09f4a6076f10",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioPlay1",
+                    "type": "Button",
+                    "id": "74c8b52e-fbbf-49af-a4e0-d3b8ae47e93a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioPlay2",
+                    "type": "Button",
+                    "id": "ddac0d5a-731d-4183-9eb3-dc16620d71e4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioPlay3",
+                    "type": "Button",
+                    "id": "9285ffaf-0b12-4c40-a5a8-7f4718eb508b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioPlay4",
+                    "type": "Button",
+                    "id": "f6cb2922-89bf-4802-b03d-12cff46cd751",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioStop1",
+                    "type": "Button",
+                    "id": "99533500-9a0f-42b3-86ea-9b4f902e5b63",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioStop2",
+                    "type": "Button",
+                    "id": "b7246674-a91c-4fa0-998e-7aa16c0bde72",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioStop3",
+                    "type": "Button",
+                    "id": "086800ae-1b48-45e2-80f5-2fbd5418b111",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AudioStop4",
+                    "type": "Button",
+                    "id": "de848692-e0db-4ad7-a5bf-2f1e79243f20",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cc997939-cc0e-4a0b-bd90-f96c02f1c40e",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "onspray1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "56bebe77-873f-427d-95ef-590a9c7cb6a6",
+                    "path": "<Keyboard>/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "onspray2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9716ede7-5822-408e-af64-a6b9f9d3f530",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "onspray3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "30138408-4eb5-4917-9d99-a63e0a18609e",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "onspray4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aa18149b-882b-434e-a586-8b989a4dbd60",
+                    "path": "<Keyboard>/h",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioPlay1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ebcae670-2fb9-458a-9dff-83cb7fb367fb",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioPlay2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f6f6843d-7ed4-4044-b77e-cfca5ef8af6a",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioPlay3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "afbe5fb2-1eab-4558-875c-b182358e8e38",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioPlay4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0aedb0e0-86b7-4de1-abed-20ea4682a897",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioStop1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dee518f0-660a-40e4-a830-3336783b4e64",
+                    "path": "<Keyboard>/t",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioStop2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f70678f6-4a32-4169-8f84-91dec76bf109",
+                    "path": "<Keyboard>/o",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioStop3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "94e457be-9888-4133-9c76-0f3dd6d8854f",
+                    "path": "<Keyboard>/p",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AudioStop4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
